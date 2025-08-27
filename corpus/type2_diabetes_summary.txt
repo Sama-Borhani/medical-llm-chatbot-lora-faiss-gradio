@@ -1,1 +1,6 @@
+Type 2 diabetes mellitus is a chronic condition characterized by insulin resistance and impaired insulin secretion. 
+First-line therapy is lifestyle modification including dietary changes, exercise, and weight loss. 
+Metformin is usually the initial pharmacologic treatment. 
+Other classes of medications include GLP-1 receptor agonists, SGLT2 inhibitors, sulfonylureas, and insulin in advanced cases. 
+Patients should be monitored for complications including cardiovascular disease, neuropathy, nephropathy, and retinopathy.
 
