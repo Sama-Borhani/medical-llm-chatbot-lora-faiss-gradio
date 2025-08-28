@@ -1,1 +1,20 @@
+# data & artifacts (keep private/out of Git)
+corpus/
+index/
+models/
+outputs/
+*.bin
+*.pt
+*.safetensors
+
+# notebooks cache
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+
+# env & secrets
+.env
+.venv/
 
