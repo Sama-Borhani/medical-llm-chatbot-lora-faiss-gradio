@@ -41,13 +41,13 @@ User → Gradio UI → retrieve top-k with FAISS → rerank with cross-encoder
 ├─ .gitignore
 ├─ .env.example
 ├─ notebooks/
-│  └─ 04\_inference\_gradio.ipynb        # optional Colab runner
-├─ corpus/                              # approved .txt notes (do NOT commit PHI/private data)
-├─ index/                               # FAISS files created by the build step
+│  └─ 04\_inference\_gradio.ipynb        
+├─ corpus/                              
+├─ index/                               
 ├─ scripts/
-│  └─ build\_faiss.py                    # builds FAISS index from /corpus
+│  └─ build\_faiss.py                    
 └─ src/
-└─ app.py                            # Gradio app (loads model + index + reranker)
+└─ app.py                            
 
 ````
 
