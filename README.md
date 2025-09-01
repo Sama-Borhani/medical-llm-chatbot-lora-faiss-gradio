@@ -148,6 +148,8 @@ Initial FAISS neighbors are **reranked** with `cross-encoder/ms-marco-MiniLM-L-6
 
 ## License
 
+This project is licensed under the terms of the [MIT License](LICENSE).
+
 Content in `/corpus` must follow its original license. This project does **not** provide medical advice.
 
 
